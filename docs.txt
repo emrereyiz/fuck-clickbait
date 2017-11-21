@@ -1,0 +1,2 @@
+http://cwestblog.com/2017/05/03/javascript-snippet-get-video-frame-as-an-image/
+https://huddle.github.io/Resemble.js/
